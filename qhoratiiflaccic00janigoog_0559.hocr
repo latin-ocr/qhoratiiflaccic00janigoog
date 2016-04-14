@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccic00janigoog_0559.png"; bbox 0 0 2659 4434; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 424 2642 2180 2721">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 424 2642 2180 2721">
+     <span class='ocr_line' id='line_1_1' title="bbox 424 2642 2180 2721; baseline 0.002 -27"><span class='ocrx_word' id='word_1_1' title='bbox 424 2642 580 2694; x_wconf 80' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 616 2642 1064 2698; x_wconf 67' lang='grc' dir='ltr'><strong>υΗΝι-ᾞειτπ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1096 2642 1200 2698; x_wconf 59' lang='lat' dir='ltr'><strong>nv</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1232 2642 1693 2698; x_wconf 49' lang='lat' dir='ltr'><strong>camum-113</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1725 2642 2053 2698; x_wconf 62' lang='lat' dir='ltr'><strong>unffi?</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2178 2716 2180 2721; x_wconf 10' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2659 4434">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2659 4434">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2659 4434; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2659 4434; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
